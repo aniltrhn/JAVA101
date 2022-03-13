@@ -14,7 +14,7 @@ public class DikUcgen {
         b = inp.nextInt();
 
         c = Math.sqrt((a*a) + (b*b));
-        System.out.println("Hiptenüs :" +c );
+        System.out.println("Hipotenüs :" +c );
 
 
 
